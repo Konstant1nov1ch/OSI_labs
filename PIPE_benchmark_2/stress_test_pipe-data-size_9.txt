@@ -1,0 +1,17 @@
+stress-ng: info:  [190998] setting to a 30 second run per stressor
+stress-ng: info:  [190998] dispatching hogs: 9 pipeherd
+stress-ng: info:  [190999] stress-ng-pipeherd: 1.03 context switches per bogo operation (17609.12 per second)
+stress-ng: info:  [191000] stress-ng-pipeherd: 1.03 context switches per bogo operation (18067.41 per second)
+stress-ng: info:  [191013] stress-ng-pipeherd: 1.03 context switches per bogo operation (17677.06 per second)
+stress-ng: info:  [191016] stress-ng-pipeherd: 1.03 context switches per bogo operation (17649.50 per second)
+stress-ng: info:  [191009] stress-ng-pipeherd: 1.03 context switches per bogo operation (17560.45 per second)
+stress-ng: info:  [191002] stress-ng-pipeherd: 1.03 context switches per bogo operation (17617.26 per second)
+stress-ng: info:  [191001] stress-ng-pipeherd: 1.03 context switches per bogo operation (17575.28 per second)
+stress-ng: info:  [191005] stress-ng-pipeherd: 1.03 context switches per bogo operation (17537.97 per second)
+stress-ng: info:  [191003] stress-ng-pipeherd: 1.03 context switches per bogo operation (17892.84 per second)
+stress-ng: info:  [190998] successful run completed in 30.03s
+stress-ng: info:  [190998] stressor       bogo ops real time  usr time  sys time   bogo ops/s     bogo ops/s CPU used per
+stress-ng: info:  [190998]                           (secs)    (secs)    (secs)   (real time) (usr+sys time) instance (%)
+stress-ng: info:  [190998] pipeherd        4636305     30.02      2.45    340.06    154438.36       13536.26       126.77
+stress-ng: info:  [190998] pipeherd           1.03 context switches per bogo op (average per stressor)
+stress-ng: info:  [190998] pipeherd       17687.43 context switches per second (average per stressor)

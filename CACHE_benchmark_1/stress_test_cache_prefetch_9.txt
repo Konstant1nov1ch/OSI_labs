@@ -1,0 +1,6 @@
+stress-ng: info:  [120625] setting to a 30 second run per stressor
+stress-ng: info:  [120625] dispatching hogs: 9 cache
+stress-ng: info:  [120625] successful run completed in 30.00s
+stress-ng: info:  [120625] stressor       bogo ops real time  usr time  sys time   bogo ops/s     bogo ops/s CPU used per
+stress-ng: info:  [120625]                           (secs)    (secs)    (secs)   (real time) (usr+sys time) instance (%)
+stress-ng: info:  [120625] cache              4094     30.00    131.28      0.08       136.46          31.17        48.65

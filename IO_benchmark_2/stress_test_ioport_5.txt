@@ -1,0 +1,6 @@
+stress-ng: info:  [140508] setting to a 30 second run per stressor
+stress-ng: info:  [140508] dispatching hogs: 5 ioport
+stress-ng: info:  [140508] successful run completed in 30.00s
+stress-ng: info:  [140508] stressor       bogo ops real time  usr time  sys time   bogo ops/s     bogo ops/s CPU used per
+stress-ng: info:  [140508]                           (secs)    (secs)    (secs)   (real time) (usr+sys time) instance (%)
+stress-ng: info:  [140508] ioport           761254     30.00    102.59     47.33     25375.13        5077.73        99.95

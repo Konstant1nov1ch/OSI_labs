@@ -1,0 +1,7 @@
+stress-ng: info:  [149509] setting to a 30 second run per stressor
+stress-ng: info:  [149509] dispatching hogs: 2 misaligned
+stress-ng: info:  [149510] stress-ng-misaligned: exercised int16rd int16wr int16inc int16atomic int32rd int32wr int32wrnt int32inc int32atomic int64rd int64wr int64wrnt int64inc int64atomic int128rd int128wr int128inc int128tomic
+stress-ng: info:  [149509] successful run completed in 30.02s
+stress-ng: info:  [149509] stressor       bogo ops real time  usr time  sys time   bogo ops/s     bogo ops/s CPU used per
+stress-ng: info:  [149509]                           (secs)    (secs)    (secs)   (real time) (usr+sys time) instance (%)
+stress-ng: info:  [149509] misaligned           36     30.01     22.30      0.00         1.20           1.61        37.16

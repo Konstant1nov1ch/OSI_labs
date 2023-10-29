@@ -1,0 +1,6 @@
+stress-ng: info:  [196173] setting to a 30 second run per stressor
+stress-ng: info:  [196173] dispatching hogs: 4 schedpolicy
+stress-ng: info:  [196173] successful run completed in 30.00s
+stress-ng: info:  [196173] stressor       bogo ops real time  usr time  sys time   bogo ops/s     bogo ops/s CPU used per
+stress-ng: info:  [196173]                           (secs)    (secs)    (secs)   (real time) (usr+sys time) instance (%)
+stress-ng: info:  [196173] schedpolicy      747642     30.00      1.20    118.55     24921.47        6243.36        99.79

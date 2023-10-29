@@ -1,0 +1,6 @@
+stress-ng: info:  [128186] setting to a 30 second run per stressor
+stress-ng: info:  [128186] dispatching hogs: 5 iomix
+stress-ng: info:  [128186] successful run completed in 30.02s
+stress-ng: info:  [128186] stressor       bogo ops real time  usr time  sys time   bogo ops/s     bogo ops/s CPU used per
+stress-ng: info:  [128186]                           (secs)    (secs)    (secs)   (real time) (usr+sys time) instance (%)
+stress-ng: info:  [128186] iomix             94199     30.02      3.88     48.39      3137.73        1802.16        34.82

@@ -1,0 +1,6 @@
+stress-ng: info:  [163008] setting to a 30 second run per stressor
+stress-ng: info:  [163008] dispatching hogs: 1 netlink-task
+stress-ng: info:  [163008] successful run completed in 30.00s
+stress-ng: info:  [163008] stressor       bogo ops real time  usr time  sys time   bogo ops/s     bogo ops/s CPU used per
+stress-ng: info:  [163008]                           (secs)    (secs)    (secs)   (real time) (usr+sys time) instance (%)
+stress-ng: info:  [163008] netlink-task    9439058     30.00      1.13     28.86    314635.63      314740.18        99.97

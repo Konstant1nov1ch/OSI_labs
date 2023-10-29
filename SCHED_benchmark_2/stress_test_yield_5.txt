@@ -1,0 +1,11 @@
+stress-ng: info:  [197611] setting to a 30 second run per stressor
+stress-ng: info:  [197611] dispatching hogs: 5 yield
+stress-ng: info:  [197612] stress-ng-yield: limiting to 12 child yielders (instance 0)
+stress-ng: info:  [197613] stress-ng-yield: limiting to 12 child yielders (instance 1)
+stress-ng: info:  [197614] stress-ng-yield: limiting to 12 child yielders (instance 2)
+stress-ng: info:  [197615] stress-ng-yield: limiting to 12 child yielders (instance 3)
+stress-ng: info:  [197616] stress-ng-yield: limiting to 12 child yielders (instance 4)
+stress-ng: info:  [197611] successful run completed in 30.00s
+stress-ng: info:  [197611] stressor       bogo ops real time  usr time  sys time   bogo ops/s     bogo ops/s CPU used per
+stress-ng: info:  [197611]                           (secs)    (secs)    (secs)   (real time) (usr+sys time) instance (%)
+stress-ng: info:  [197611] yield          10784642     30.00      3.02    355.22    359484.59       30104.52       238.82
